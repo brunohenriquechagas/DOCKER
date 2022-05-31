@@ -5,9 +5,11 @@
 
 # 1 - Comando para clonar repositorio, dar permissões a arquivos do repositorio, instalar o java, instalar docker, baixar imagem do docker e  criar container (Apenas copiar e colar no terminal)
 
-1. cd / && git clone https://github.com/brunohenriquechagas/DOCKER.git && cd /./DOCKER/ && cd repBruno && chmod +x scriptSQL.sh && chmod +x Java.sh && chmod 777 Swing-1.0-SNAPSHOT-jar-with-dependencies.jar && ./Java.sh && ./scriptSQL.sh && cd DOCKER && cd repBruno && java -jar Swing-1.0-SNAPSHOT-jar-with-dependencies.jar
+1. cd / && git clone https://github.com/brunohenriquechagas/DOCKER.git && cd /./DOCKER/ && cd repBruno && chmod +x scriptSQL.sh && chmod +x Java.sh && chmod 777 Swing-1.0-SNAPSHOT-jar-with-dependencies.jar && ./Java.sh && ./scriptSQL.sh
 
-2. java -jar Swing-1.0-SNAPSHOT-jar-with-dependencies.jar
+Após executar o comando a cima, abra outro terminal e execute o seguinte comando
+
+2. cd DOCKER && repBruno && cd java -jar Swing-1.0-SNAPSHOT-jar-with-dependencies.jar
 
 # 2 - Script para criar as tabelas do banco (APENAS COPIAR E COLAR DENTRO DO SEU CONTAINER MYSQL)
 create table empresa(

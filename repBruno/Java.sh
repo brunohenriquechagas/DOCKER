@@ -44,9 +44,6 @@ if [ $? -eq 0 ]
 		else 	
 		echo "$(tput setaf 10)[Bot assistant]:$(tput setaf 7)  Você optou por não instalar o Java por enquanto, até a próxima então!"
 
-
-
-
 		sleep 1
 	fi
 
