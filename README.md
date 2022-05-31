@@ -1,6 +1,6 @@
 # DOCKER
 # //-----------------------------------------------------------//
-# = INSTALLER | Autor: WALDERLEY NETO =
+# = INSTALLER | Autor: BRUNO HENRIQUE e WALDERLEY NETO =
 # //-----------------------------------------------------------//
 
 # 1 - Passo a passo para instalar .zip, java, docker e imagem MySQL
