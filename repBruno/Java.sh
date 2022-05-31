@@ -53,20 +53,6 @@ if [ $? -eq 0 ]
 fi
 echo "baixando o repositório"
 
-
-
-cd /home/ra01212056/Desktop/ra01212056/repositorio
-
-git clone https://github.com/NetoOSantos/Keep-Swimming.git
-
-echo "executando o java"
-
-cd /home/ra01212056/Desktop/ra01212056/repositorio/Keep-Swimming/JAR-inicial/target
-
-
-
-java -jar Swing-1.0-SNAPSHOT-jar-with-dependencies.jar
-
 # ===================================================================
 # Todos direitos reservados para o autor: Dra. Profa. Marise Miranda.
 # Sob licença Creative Commons @2020
