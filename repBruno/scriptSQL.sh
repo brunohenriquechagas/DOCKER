@@ -68,7 +68,10 @@ then
         read nome
 
         echo "execute o comando mysql -u root -p e coloque a senha do seu usuario para entrar no banco de dados"
-        echo "abra outro terminal e execute java -jar Swing-1.0-SNAPSHOT-jar-with-dependencies.jar "
+
+        echo "Após usar o seu banco, copie e cole o Script SQL disponibilizado no nosso github para criar as tabelas"
+
+        echo "Após criar as tabelas, abra outro terminal e execute\n cd DOCKER && cd repBruno && java -jar Swing-1.0-SNAPSHOT-jar-with-dependencies.jar"
 
 sudo docker exec -it $nome bash
 
