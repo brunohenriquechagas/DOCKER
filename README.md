@@ -5,7 +5,7 @@
 
 # 1 - Comando para clonar repositorio, dar permissões a arquivos do repositorio, instalar o java, instalar docker, baixar imagem do docker e  criar container (Apenas copiar e colar no terminal)
 
-1. cd / && git clone https://github.com/brunohenriquechagas/DOCKER.git && cd /./DOCKER/ && cd repBruno && chmod +x scriptSQL.sh && chmod +x Java.sh && chmod 777 Swing-1.0-SNAPSHOT-jar-with-dependencies.jar && ./Java.sh && ./scriptSQL.sh
+1. cd / && git clone https://github.com/brunohenriquechagas/DOCKER.git && cd /./DOCKER/ && cd repBruno && chmod +x scriptSQL.sh && chmod +x Java.sh && chmod 777 Swing-1.0-SNAPSHOT-jar-with-dependencies.jar && clear && ./Java.sh && clear && ./scriptSQL.sh
 
 Após executar o comando a cima, abra outro terminal e execute o seguinte comando
 
