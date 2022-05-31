@@ -71,7 +71,7 @@ then
 
         echo "Após usar o seu banco, copie e cole o Script SQL disponibilizado no nosso github para criar as tabelas"
 
-        echo "Após criar as tabelas, abra outro terminal e execute\n cd DOCKER && cd repBruno && java -jar Swing-1.0-SNAPSHOT-jar-with-dependencies.jar"
+        echo "Após criar as tabelas, abra outro terminal e execute: cd .. && cd DOCKER && cd repBruno && java -jar Swing-1.0-SNAPSHOT-jar-with-dependencies.jar"
 
 sudo docker exec -it $nome bash
 
