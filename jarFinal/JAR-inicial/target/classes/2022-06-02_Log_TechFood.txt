@@ -1,0 +1,16 @@
+2022/06/02 17:08:51 --: ===============Tela de Login===============
+2022/06/02 17:08:51 --: Iniciando tela swing email&senha
+2022/06/02 17:08:58 --: Fazendo conexão com o Banco...
+2022/06/02 17:08:58 --: =====Buscasndo conexão com BD=====
+2022/06/02 17:08:58 --: Usuario logado
+2022/06/02 17:08:58 --: Iniciando tela token...
+2022/06/02 17:09:02 --: =============Envia Token=============
+2022/06/02 17:09:02 --: Iniciando tela do tokem...
+2022/06/02 17:08:58 --: Erro na autenticação do usuario
+2022/06/02 17:08:58 --: Erro na autenticação do usuario
+2022/06/02 17:08:58 --: Erro na autenticação do usuario
+2022/06/02 17:09:04 --: Emitindo token
+2022/06/02 17:09:04 --: Gerando código token
+2022/06/02 17:09:04 --: Token enviado
+2022/06/02 17:09:09 --: =====Buscasndo conexão com BD=====
+2022/06/02 17:09:09 --: Login realizado com sucesso

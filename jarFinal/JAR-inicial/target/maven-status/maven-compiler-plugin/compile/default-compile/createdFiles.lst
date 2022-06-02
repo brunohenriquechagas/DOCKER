@@ -6,7 +6,6 @@ com\mycompany\swing\TelaPrincipal.class
 com\mycompany\swing\Funcionario.class
 com\mycompany\swing\TelaUsuarioLogado.class
 com\mycompany\swing\Connection.class
-com\mycompany\swing\Looca.class
 com\mycompany\swing\TelaPrincipal$2.class
 com\mycompany\swing\KeepSwimming.class
 com\mycompany\swing\EnviaToken$3.class
@@ -18,7 +17,6 @@ com\mycompany\swing\LoocaProcessos.class
 com\mycompany\swing\EnviaToken$2.class
 com\mycompany\swing\LoocaSistema.class
 com\mycompany\swing\KeepSwimming$2.class
-com\mycompany\swing\Teste.class
 com\mycompany\swing\alertaParaTelegram.class
 com\mycompany\swing\mediaMemoria.class
 com\mycompany\swing\DadosBot.class

@@ -1,0 +1,12 @@
+2022/05/26 13:35:18 -- guardaCodig
+2022/05/26 13:52:22 -- Listando usuarios no banco
+2022/05/26 13:52:22 -- autenticando usuario
+2022/05/26 13:52:25 -- Emitindo Token
+2022/05/26 14:15:26 -- Listando usuarios no banco
+2022/05/26 14:15:26 -- autenticando usuario
+2022/05/26 14:15:30 -- Emitindo Token
+2022/05/26 14:50:44 -- : Listando usuarios no banco
+2022/05/26 14:50:44 -- : autenticando usuario
+2022/05/26 14:52:55 -- : Listando usuarios no banco
+2022/05/26 14:53:11 -- : Listando usuarios no banco
+2022/05/26 14:53:14 -- : Listando usuarios no banco
