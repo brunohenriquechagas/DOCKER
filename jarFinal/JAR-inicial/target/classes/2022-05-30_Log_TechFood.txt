@@ -1,0 +1,564 @@
+2022/05/30 00:50:21 --: =====Buscasndo conexão com BD=====
+2022/05/30 01:01:46 --: =============Envia Token=============
+2022/05/30 01:01:46 --: Iniciando tela do tokem...
+2022/05/30 01:01:48 --: Emitindo token
+2022/05/30 01:01:48 --: Gerando código token
+2022/05/30 01:01:48 --: Token enviado
+2022/05/30 01:01:56 --: ====================TelegramBot====================
+2022/05/30 01:01:56 --: Interagindo com usuario no Telegram
+2022/05/30 01:01:56 --: =====Buscasndo conexão com BD=====
+2022/05/30 01:02:01 --: Login realizado com sucesso
+2022/05/30 01:02:01 --: ===============Tela Principal===============
+2022/05/30 01:02:01 --: =====Buscasndo conexão com BD=====
+2022/05/30 01:01:56 --: Mensagem recebida do telegram
+2022/05/30 01:15:10 --: ====================TelegramBot====================
+2022/05/30 01:15:10 --: Interagindo com usuario no Telegram
+2022/05/30 01:15:10 --: =====Buscasndo conexão com BD=====
+2022/05/30 01:15:10 --: Mensagem recebida do telegram
+2022/05/30 01:19:00 --: =====Buscasndo conexão com BD=====
+2022/05/30 01:19:19 --: ====================TelegramBot====================
+2022/05/30 01:19:19 --: Interagindo com usuario no Telegram
+2022/05/30 01:19:19 --: Mensagem recebida do telegram
+2022/05/30 01:20:52 --: =====Buscasndo conexão com BD=====
+2022/05/30 01:21:54 --: =====Buscasndo conexão com BD=====
+2022/05/30 01:23:02 --: =====Buscasndo conexão com BD=====
+2022/05/30 01:23:27 --: ====================TelegramBot====================
+2022/05/30 01:23:27 --: Interagindo com usuario no Telegram
+2022/05/30 01:23:27 --: Mensagem recebida do telegram
+2022/05/30 01:24:25 --: =====Buscasndo conexão com BD=====
+2022/05/30 01:26:20 --: =============Envia Token=============
+2022/05/30 01:26:20 --: Iniciando tela do tokem...
+2022/05/30 01:26:24 --: Emitindo token
+2022/05/30 01:26:24 --: Gerando código token
+2022/05/30 01:26:24 --: =====Buscasndo conexão com BD=====
+2022/05/30 01:26:24 --: Token enviado
+2022/05/30 01:26:38 --: Login realizado com sucesso
+2022/05/30 01:26:39 --: ===============Tela Principal===============
+2022/05/30 01:26:39 --: =====Buscasndo conexão com BD=====
+2022/05/30 01:27:00 --: ====================TelegramBot====================
+2022/05/30 01:27:00 --: Interagindo com usuario no Telegram
+2022/05/30 01:27:00 --: Mensagem recebida do telegram
+2022/05/30 01:29:26 --: =============Envia Token=============
+2022/05/30 01:29:26 --: Iniciando tela do tokem...
+2022/05/30 01:29:29 --: Emitindo token
+2022/05/30 01:29:29 --: Gerando código token
+2022/05/30 01:29:29 --: =====Buscasndo conexão com BD=====
+2022/05/30 01:29:29 --: Token enviado
+2022/05/30 01:29:42 --: Login realizado com sucesso
+2022/05/30 01:29:42 --: ===============Tela Principal===============
+2022/05/30 01:29:42 --: =====Buscasndo conexão com BD=====
+2022/05/30 01:31:55 --: =============Envia Token=============
+2022/05/30 01:31:55 --: Iniciando tela do tokem...
+2022/05/30 01:31:57 --: Emitindo token
+2022/05/30 01:31:57 --: Gerando código token
+2022/05/30 01:31:57 --: =====Buscasndo conexão com BD=====
+2022/05/30 01:31:57 --: Token enviado
+2022/05/30 01:34:45 --: Login realizado com sucesso
+2022/05/30 01:34:45 --: ===============Tela Principal===============
+2022/05/30 01:34:45 --: =====Buscasndo conexão com BD=====
+2022/05/30 01:36:33 --: =============Envia Token=============
+2022/05/30 01:36:33 --: Iniciando tela do tokem...
+2022/05/30 01:36:35 --: Emitindo token
+2022/05/30 01:36:35 --: Gerando código token
+2022/05/30 01:36:36 --: =====Buscasndo conexão com BD=====
+2022/05/30 01:36:35 --: Token enviado
+2022/05/30 01:36:47 --: Login realizado com sucesso
+2022/05/30 01:36:48 --: ===============Tela Principal===============
+2022/05/30 01:36:48 --: =====Buscasndo conexão com BD=====
+2022/05/30 01:37:54 --: =============Envia Token=============
+2022/05/30 01:37:54 --: Iniciando tela do tokem...
+2022/05/30 01:37:57 --: Emitindo token
+2022/05/30 01:37:57 --: Gerando código token
+2022/05/30 01:37:57 --: =====Buscasndo conexão com BD=====
+2022/05/30 01:37:57 --: Token enviado
+2022/05/30 01:38:11 --: Login realizado com sucesso
+2022/05/30 01:38:12 --: ===============Tela Principal===============
+2022/05/30 01:38:12 --: =====Buscasndo conexão com BD=====
+2022/05/30 01:39:44 --: =============Envia Token=============
+2022/05/30 01:39:44 --: Iniciando tela do tokem...
+2022/05/30 01:39:57 --: ===============Tela de Login===============
+2022/05/30 01:39:57 --: Iniciando tela swing email&senha
+2022/05/30 01:40:17 --: Fazendo conexão com o Banco...
+2022/05/30 01:40:17 --: =====Buscasndo conexão com BD=====
+2022/05/30 01:40:17 --: Usuario logado
+2022/05/30 01:40:17 --: Iniciando tela token...
+2022/05/30 01:40:26 --: =============Envia Token=============
+2022/05/30 01:40:26 --: Iniciando tela do tokem...
+2022/05/30 01:40:27 --: Emitindo token
+2022/05/30 01:40:27 --: Gerando código token
+2022/05/30 01:40:27 --: =====Buscasndo conexão com BD=====
+2022/05/30 01:40:27 --: Token enviado
+2022/05/30 01:40:43 --: Login realizado com sucesso
+2022/05/30 01:40:43 --: ===============Tela Principal===============
+2022/05/30 01:40:43 --: =====Buscasndo conexão com BD=====
+2022/05/30 01:40:43 --: Inserindo dados no BD...
+2022/05/30 01:43:22 --: ====================TelegramBot====================
+2022/05/30 01:43:22 --: Interagindo com usuario no Telegram
+2022/05/30 01:43:22 --: Mensagem recebida do telegram
+2022/05/30 01:44:26 --: ====================TelegramBot====================
+2022/05/30 01:44:26 --: Interagindo com usuario no Telegram
+2022/05/30 01:44:26 --: Mensagem recebida do telegram
+2022/05/30 01:44:36 --: ====================TelegramBot====================
+2022/05/30 01:44:36 --: Interagindo com usuario no Telegram
+2022/05/30 01:44:36 --: Mensagem recebida do telegram
+2022/05/30 08:36:22 --: ===============Tela de Login===============
+2022/05/30 08:36:22 --: Iniciando tela swing email&senha
+2022/05/30 08:36:43 --: ===============Tela de Login===============
+2022/05/30 08:36:43 --: Iniciando tela swing email&senha
+2022/05/30 08:37:10 --: Fazendo conexão com o Banco...
+2022/05/30 08:37:10 --: =====Buscasndo conexão com BD=====
+2022/05/30 08:37:10 --: Usuario logado
+2022/05/30 08:37:10 --: Iniciando tela token...
+2022/05/30 08:37:14 --: =============Envia Token=============
+2022/05/30 08:37:14 --: Iniciando tela do tokem...
+2022/05/30 08:37:20 --: Emitindo token
+2022/05/30 08:37:20 --: Gerando código token
+2022/05/30 08:37:20 --: =====Buscasndo conexão com BD=====
+2022/05/30 08:37:20 --: Token enviado
+2022/05/30 08:37:32 --: Login realizado com sucesso
+2022/05/30 08:37:32 --: ===============Tela Principal===============
+2022/05/30 08:37:32 --: =====Buscasndo conexão com BD=====
+2022/05/30 08:37:32 --: Inserindo dados no BD...
+2022/05/30 08:39:06 --: ====================TelegramBot====================
+2022/05/30 08:39:06 --: Interagindo com usuario no Telegram
+2022/05/30 08:39:06 --: Mensagem recebida do telegram
+2022/05/30 08:43:03 --: ===============Tela de Login===============
+2022/05/30 08:43:03 --: Iniciando tela swing email&senha
+2022/05/30 08:43:20 --: Fazendo conexão com o Banco...
+2022/05/30 08:43:20 --: =====Buscasndo conexão com BD=====
+2022/05/30 08:43:20 --: Usuario logado
+2022/05/30 08:43:20 --: Iniciando tela token...
+2022/05/30 08:43:24 --: =============Envia Token=============
+2022/05/30 08:43:24 --: Iniciando tela do tokem...
+2022/05/30 08:43:29 --: Emitindo token
+2022/05/30 08:43:29 --: Gerando código token
+2022/05/30 08:43:29 --: =====Buscasndo conexão com BD=====
+2022/05/30 08:43:29 --: Token enviado
+2022/05/30 08:43:37 --: Login realizado com sucesso
+2022/05/30 08:43:37 --: ===============Tela Principal===============
+2022/05/30 08:43:37 --: =====Buscasndo conexão com BD=====
+2022/05/30 08:43:37 --: Inserindo dados no BD...
+2022/05/30 08:46:41 --: ====================TelegramBot====================
+2022/05/30 08:46:41 --: Interagindo com usuario no Telegram
+2022/05/30 08:46:41 --: Mensagem recebida do telegram
+2022/05/30 08:48:54 --: ===============Tela de Login===============
+2022/05/30 08:48:54 --: Iniciando tela swing email&senha
+2022/05/30 08:49:18 --: Fazendo conexão com o Banco...
+2022/05/30 08:49:18 --: =====Buscasndo conexão com BD=====
+2022/05/30 08:49:18 --: Usuario logado
+2022/05/30 08:49:18 --: Iniciando tela token...
+2022/05/30 08:49:22 --: =============Envia Token=============
+2022/05/30 08:49:22 --: Iniciando tela do tokem...
+2022/05/30 08:49:24 --: Emitindo token
+2022/05/30 08:49:24 --: Gerando código token
+2022/05/30 08:49:24 --: =====Buscasndo conexão com BD=====
+2022/05/30 08:49:24 --: Token enviado
+2022/05/30 08:49:31 --: Login realizado com sucesso
+2022/05/30 08:49:31 --: ===============Tela Principal===============
+2022/05/30 08:49:31 --: =====Buscasndo conexão com BD=====
+2022/05/30 08:49:31 --: Inserindo dados no BD...
+2022/05/30 08:50:01 --: ====================TelegramBot====================
+2022/05/30 08:50:01 --: Interagindo com usuario no Telegram
+2022/05/30 08:50:01 --: Mensagem recebida do telegram
+2022/05/30 08:53:49 --: ===============Tela de Login===============
+2022/05/30 08:53:49 --: Iniciando tela swing email&senha
+2022/05/30 08:54:05 --: Fazendo conexão com o Banco...
+2022/05/30 08:54:05 --: =====Buscasndo conexão com BD=====
+2022/05/30 08:54:05 --: Usuario logado
+2022/05/30 08:54:05 --: Iniciando tela token...
+2022/05/30 08:54:09 --: =============Envia Token=============
+2022/05/30 08:54:09 --: Iniciando tela do tokem...
+2022/05/30 08:54:11 --: Emitindo token
+2022/05/30 08:54:11 --: Gerando código token
+2022/05/30 08:54:11 --: =====Buscasndo conexão com BD=====
+2022/05/30 08:54:11 --: Token enviado
+2022/05/30 08:54:17 --: Login realizado com sucesso
+2022/05/30 08:54:17 --: ===============Tela Principal===============
+2022/05/30 08:54:17 --: =====Buscasndo conexão com BD=====
+2022/05/30 08:54:17 --: Inserindo dados no BD...
+2022/05/30 08:54:24 --: ====================TelegramBot====================
+2022/05/30 08:54:24 --: Interagindo com usuario no Telegram
+2022/05/30 08:54:24 --: Mensagem recebida do telegram
+2022/05/30 08:55:10 --: ===============Tela de Login===============
+2022/05/30 08:55:10 --: Iniciando tela swing email&senha
+2022/05/30 08:55:44 --: Fazendo conexão com o Banco...
+2022/05/30 08:55:44 --: =====Buscasndo conexão com BD=====
+2022/05/30 08:55:44 --: Usuario logado
+2022/05/30 08:55:44 --: Iniciando tela token...
+2022/05/30 08:55:48 --: =============Envia Token=============
+2022/05/30 08:55:48 --: Iniciando tela do tokem...
+2022/05/30 08:55:49 --: Emitindo token
+2022/05/30 08:55:49 --: Gerando código token
+2022/05/30 08:55:49 --: Token enviado
+2022/05/30 08:55:56 --: ====================TelegramBot====================
+2022/05/30 08:55:56 --: Interagindo com usuario no Telegram
+2022/05/30 08:55:56 --: =====Buscasndo conexão com BD=====
+2022/05/30 08:55:56 --: Mensagem recebida do telegram
+2022/05/30 08:57:25 --: ===============Tela de Login===============
+2022/05/30 08:57:25 --: Iniciando tela swing email&senha
+2022/05/30 08:57:38 --: Fazendo conexão com o Banco...
+2022/05/30 08:57:38 --: =====Buscasndo conexão com BD=====
+2022/05/30 08:57:38 --: Usuario logado
+2022/05/30 08:57:38 --: Iniciando tela token...
+2022/05/30 08:57:42 --: =============Envia Token=============
+2022/05/30 08:57:42 --: Iniciando tela do tokem...
+2022/05/30 08:57:45 --: Emitindo token
+2022/05/30 08:57:45 --: Gerando código token
+2022/05/30 08:57:45 --: Token enviado
+2022/05/30 08:57:52 --: ====================TelegramBot====================
+2022/05/30 08:57:52 --: Interagindo com usuario no Telegram
+2022/05/30 08:57:52 --: =====Buscasndo conexão com BD=====
+2022/05/30 08:57:52 --: Mensagem recebida do telegram
+2022/05/30 08:58:20 --: ====================TelegramBot====================
+2022/05/30 08:58:20 --: Interagindo com usuario no Telegram
+2022/05/30 08:58:20 --: =====Buscasndo conexão com BD=====
+2022/05/30 08:58:20 --: Mensagem recebida do telegram
+2022/05/30 08:58:32 --: ====================TelegramBot====================
+2022/05/30 08:58:32 --: Interagindo com usuario no Telegram
+2022/05/30 08:58:32 --: =====Buscasndo conexão com BD=====
+2022/05/30 08:58:32 --: Mensagem recebida do telegram
+2022/05/30 09:44:44 --: ===============Tela de Login===============
+2022/05/30 09:44:44 --: Iniciando tela swing email&senha
+2022/05/30 09:45:07 --: Fazendo conexão com o Banco...
+2022/05/30 09:45:07 --: =====Buscasndo conexão com BD=====
+2022/05/30 09:45:07 --: Usuario logado
+2022/05/30 09:45:07 --: Iniciando tela token...
+2022/05/30 09:45:10 --: =============Envia Token=============
+2022/05/30 09:45:10 --: Iniciando tela do tokem...
+2022/05/30 09:45:12 --: Emitindo token
+2022/05/30 09:45:12 --: Gerando código token
+2022/05/30 09:45:12 --: Token enviado
+2022/05/30 09:45:18 --: ====================TelegramBot====================
+2022/05/30 09:45:18 --: Interagindo com usuario no Telegram
+2022/05/30 09:45:18 --: =====Buscasndo conexão com BD=====
+2022/05/30 09:45:18 --: Mensagem recebida do telegram
+2022/05/30 09:45:23 --: ====================TelegramBot====================
+2022/05/30 09:45:23 --: Interagindo com usuario no Telegram
+2022/05/30 09:45:23 --: =====Buscasndo conexão com BD=====
+2022/05/30 09:45:23 --: Mensagem recebida do telegram
+2022/05/30 09:45:33 --: ====================TelegramBot====================
+2022/05/30 09:45:33 --: Interagindo com usuario no Telegram
+2022/05/30 09:45:33 --: =====Buscasndo conexão com BD=====
+2022/05/30 09:45:33 --: Mensagem recebida do telegram
+2022/05/30 09:58:04 --: ====================TelegramBot====================
+2022/05/30 09:58:04 --: Interagindo com usuario no Telegram
+2022/05/30 09:58:04 --: =====Buscasndo conexão com BD=====
+2022/05/30 09:58:04 --: Mensagem recebida do telegram
+2022/05/30 09:59:34 --: ===============Tela de Login===============
+2022/05/30 09:59:34 --: Iniciando tela swing email&senha
+2022/05/30 09:59:48 --: Fazendo conexão com o Banco...
+2022/05/30 09:59:48 --: =====Buscasndo conexão com BD=====
+2022/05/30 09:59:48 --: Usuario logado
+2022/05/30 09:59:48 --: Iniciando tela token...
+2022/05/30 09:59:51 --: =============Envia Token=============
+2022/05/30 09:59:51 --: Iniciando tela do tokem...
+2022/05/30 09:59:54 --: Emitindo token
+2022/05/30 09:59:54 --: Gerando código token
+2022/05/30 09:59:58 --: Emitindo token
+2022/05/30 09:59:58 --: Gerando código token
+2022/05/30 10:00:40 --: ===============Tela de Login===============
+2022/05/30 10:00:40 --: Iniciando tela swing email&senha
+2022/05/30 10:00:53 --: Fazendo conexão com o Banco...
+2022/05/30 10:00:53 --: =====Buscasndo conexão com BD=====
+2022/05/30 10:00:53 --: Usuario logado
+2022/05/30 10:00:53 --: Iniciando tela token...
+2022/05/30 10:00:56 --: =============Envia Token=============
+2022/05/30 10:00:56 --: Iniciando tela do tokem...
+2022/05/30 10:01:26 --: Emitindo token
+2022/05/30 10:01:26 --: Gerando código token
+2022/05/30 10:01:26 --: Token enviado
+2022/05/30 10:01:33 --: ====================TelegramBot====================
+2022/05/30 10:01:33 --: Interagindo com usuario no Telegram
+2022/05/30 10:01:33 --: Mensagem recebida do telegram
+2022/05/30 10:03:14 --: ===============Tela de Login===============
+2022/05/30 10:03:14 --: Iniciando tela swing email&senha
+2022/05/30 10:03:28 --: Fazendo conexão com o Banco...
+2022/05/30 10:03:28 --: =====Buscasndo conexão com BD=====
+2022/05/30 10:03:28 --: Usuario logado
+2022/05/30 10:03:28 --: Iniciando tela token...
+2022/05/30 10:03:32 --: =============Envia Token=============
+2022/05/30 10:03:32 --: Iniciando tela do tokem...
+2022/05/30 10:03:34 --: Emitindo token
+2022/05/30 10:03:34 --: Gerando código token
+2022/05/30 10:03:34 --: Token enviado
+2022/05/30 10:03:42 --: ====================TelegramBot====================
+2022/05/30 10:03:42 --: Interagindo com usuario no Telegram
+2022/05/30 10:03:42 --: =====Buscasndo conexão com BD=====
+2022/05/30 10:03:42 --: Mensagem recebida do telegram
+2022/05/30 10:05:01 --: ===============Tela de Login===============
+2022/05/30 10:05:01 --: Iniciando tela swing email&senha
+2022/05/30 10:05:17 --: Fazendo conexão com o Banco...
+2022/05/30 10:05:17 --: =====Buscasndo conexão com BD=====
+2022/05/30 10:05:17 --: Usuario logado
+2022/05/30 10:05:17 --: Iniciando tela token...
+2022/05/30 10:05:20 --: =============Envia Token=============
+2022/05/30 10:05:20 --: Iniciando tela do tokem...
+2022/05/30 10:05:22 --: Emitindo token
+2022/05/30 10:05:22 --: Gerando código token
+2022/05/30 10:05:22 --: Token enviado
+2022/05/30 10:06:15 --: ====================TelegramBot====================
+2022/05/30 10:06:15 --: Interagindo com usuario no Telegram
+2022/05/30 10:06:15 --: =====Buscasndo conexão com BD=====
+2022/05/30 10:06:15 --: Mensagem recebida do telegram
+2022/05/30 10:07:20 --: ===============Tela de Login===============
+2022/05/30 10:07:20 --: Iniciando tela swing email&senha
+2022/05/30 10:08:13 --: Fazendo conexão com o Banco...
+2022/05/30 10:08:13 --: =====Buscasndo conexão com BD=====
+2022/05/30 10:08:13 --: Usuario logado
+2022/05/30 10:08:13 --: Iniciando tela token...
+2022/05/30 10:08:17 --: =============Envia Token=============
+2022/05/30 10:08:17 --: Iniciando tela do tokem...
+2022/05/30 10:08:18 --: Emitindo token
+2022/05/30 10:08:18 --: Gerando código token
+2022/05/30 10:08:18 --: Token enviado
+2022/05/30 10:08:28 --: ====================TelegramBot====================
+2022/05/30 10:08:28 --: Interagindo com usuario no Telegram
+2022/05/30 10:08:28 --: =====Buscasndo conexão com BD=====
+2022/05/30 10:08:28 --: Mensagem recebida do telegram
+2022/05/30 10:08:40 --: ====================TelegramBot====================
+2022/05/30 10:08:40 --: Interagindo com usuario no Telegram
+2022/05/30 10:08:40 --: =====Buscasndo conexão com BD=====
+2022/05/30 10:08:40 --: Mensagem recebida do telegram
+2022/05/30 10:09:01 --: ====================TelegramBot====================
+2022/05/30 10:09:01 --: Interagindo com usuario no Telegram
+2022/05/30 10:09:01 --: =====Buscasndo conexão com BD=====
+2022/05/30 10:09:01 --: Mensagem recebida do telegram
+2022/05/30 10:10:01 --: ===============Tela de Login===============
+2022/05/30 10:10:01 --: Iniciando tela swing email&senha
+2022/05/30 10:10:14 --: Fazendo conexão com o Banco...
+2022/05/30 10:10:14 --: =====Buscasndo conexão com BD=====
+2022/05/30 10:10:14 --: Usuario logado
+2022/05/30 10:10:14 --: Iniciando tela token...
+2022/05/30 10:10:18 --: =============Envia Token=============
+2022/05/30 10:10:18 --: Iniciando tela do tokem...
+2022/05/30 10:10:20 --: Emitindo token
+2022/05/30 10:10:20 --: Gerando código token
+2022/05/30 10:10:20 --: Token enviado
+2022/05/30 10:10:35 --: ====================TelegramBot====================
+2022/05/30 10:10:35 --: Interagindo com usuario no Telegram
+2022/05/30 10:10:35 --: =====Buscasndo conexão com BD=====
+2022/05/30 10:10:35 --: Mensagem recebida do telegram
+2022/05/30 10:11:20 --: ===============Tela de Login===============
+2022/05/30 10:11:20 --: Iniciando tela swing email&senha
+2022/05/30 10:11:32 --: Fazendo conexão com o Banco...
+2022/05/30 10:11:32 --: =====Buscasndo conexão com BD=====
+2022/05/30 10:11:32 --: Erro na autenticação do usuario
+2022/05/30 10:11:48 --: Fazendo conexão com o Banco...
+2022/05/30 10:11:48 --: =====Buscasndo conexão com BD=====
+2022/05/30 10:11:48 --: Usuario logado
+2022/05/30 10:11:48 --: Iniciando tela token...
+2022/05/30 10:11:51 --: =============Envia Token=============
+2022/05/30 10:11:51 --: Iniciando tela do tokem...
+2022/05/30 10:12:07 --: Emitindo token
+2022/05/30 10:12:07 --: Gerando código token
+2022/05/30 10:12:07 --: Token enviado
+2022/05/30 10:12:23 --: ====================TelegramBot====================
+2022/05/30 10:12:23 --: Interagindo com usuario no Telegram
+2022/05/30 10:12:23 --: =====Buscasndo conexão com BD=====
+2022/05/30 10:12:23 --: Mensagem recebida do telegram
+2022/05/30 10:20:03 --: ===============Tela de Login===============
+2022/05/30 10:20:03 --: Iniciando tela swing email&senha
+2022/05/30 10:20:13 --: Fazendo conexão com o Banco...
+2022/05/30 10:20:13 --: =====Buscasndo conexão com BD=====
+2022/05/30 10:20:13 --: Usuario logado
+2022/05/30 10:20:13 --: Iniciando tela token...
+2022/05/30 10:20:16 --: =============Envia Token=============
+2022/05/30 10:20:16 --: Iniciando tela do tokem...
+2022/05/30 10:20:19 --: Emitindo token
+2022/05/30 10:20:19 --: Gerando código token
+2022/05/30 10:20:19 --: Token enviado
+2022/05/30 10:20:28 --: ====================TelegramBot====================
+2022/05/30 10:20:28 --: Interagindo com usuario no Telegram
+2022/05/30 10:20:28 --: =====Buscasndo conexão com BD=====
+2022/05/30 10:22:49 --: ===============Tela de Login===============
+2022/05/30 10:22:49 --: Iniciando tela swing email&senha
+2022/05/30 10:22:59 --: Fazendo conexão com o Banco...
+2022/05/30 10:22:59 --: =====Buscasndo conexão com BD=====
+2022/05/30 10:22:59 --: Usuario logado
+2022/05/30 10:22:59 --: Iniciando tela token...
+2022/05/30 10:23:02 --: =============Envia Token=============
+2022/05/30 10:23:02 --: Iniciando tela do tokem...
+2022/05/30 10:23:03 --: Emitindo token
+2022/05/30 10:23:03 --: Gerando código token
+2022/05/30 10:23:03 --: Token enviado
+2022/05/30 10:23:08 --: ====================TelegramBot====================
+2022/05/30 10:23:08 --: Interagindo com usuario no Telegram
+2022/05/30 10:23:08 --: =====Buscasndo conexão com BD=====
+2022/05/30 11:02:56 --: ===============Tela de Login===============
+2022/05/30 11:02:56 --: Iniciando tela swing email&senha
+2022/05/30 11:03:08 --: Fazendo conexão com o Banco...
+2022/05/30 11:03:08 --: =====Buscasndo conexão com BD=====
+2022/05/30 11:03:08 --: Usuario logado
+2022/05/30 11:03:08 --: Iniciando tela token...
+2022/05/30 11:03:11 --: =============Envia Token=============
+2022/05/30 11:03:11 --: Iniciando tela do tokem...
+2022/05/30 11:03:13 --: Emitindo token
+2022/05/30 11:03:13 --: Gerando código token
+2022/05/30 11:03:13 --: Token enviado
+2022/05/30 11:03:17 --: ====================TelegramBot====================
+2022/05/30 11:03:17 --: Interagindo com usuario no Telegram
+2022/05/30 11:03:17 --: Mensagem recebida do telegram
+2022/05/30 11:03:18 --: =====Buscasndo conexão com BD=====
+2022/05/30 11:03:23 --: =====Buscasndo conexão com BD=====
+2022/05/30 11:03:28 --: =====Buscasndo conexão com BD=====
+2022/05/30 11:03:33 --: =====Buscasndo conexão com BD=====
+2022/05/30 11:03:38 --: =====Buscasndo conexão com BD=====
+2022/05/30 11:03:43 --: =====Buscasndo conexão com BD=====
+2022/05/30 11:03:48 --: =====Buscasndo conexão com BD=====
+2022/05/30 11:03:53 --: =====Buscasndo conexão com BD=====
+2022/05/30 11:03:58 --: =====Buscasndo conexão com BD=====
+2022/05/30 11:04:03 --: =====Buscasndo conexão com BD=====
+2022/05/30 11:04:08 --: =====Buscasndo conexão com BD=====
+2022/05/30 11:04:13 --: =====Buscasndo conexão com BD=====
+2022/05/30 11:04:18 --: =====Buscasndo conexão com BD=====
+2022/05/30 11:04:23 --: =====Buscasndo conexão com BD=====
+2022/05/30 11:04:28 --: =====Buscasndo conexão com BD=====
+2022/05/30 11:04:33 --: =====Buscasndo conexão com BD=====
+2022/05/30 11:04:41 --: ===============Tela de Login===============
+2022/05/30 11:04:41 --: Iniciando tela swing email&senha
+2022/05/30 11:08:18 --: ===============Tela de Login===============
+2022/05/30 11:08:18 --: Iniciando tela swing email&senha
+2022/05/30 11:08:30 --: Fazendo conexão com o Banco...
+2022/05/30 11:08:30 --: =====Buscasndo conexão com BD=====
+2022/05/30 11:08:30 --: Usuario logado
+2022/05/30 11:08:30 --: Iniciando tela token...
+2022/05/30 11:08:33 --: =============Envia Token=============
+2022/05/30 11:08:33 --: Iniciando tela do tokem...
+2022/05/30 11:08:34 --: Emitindo token
+2022/05/30 11:08:34 --: Gerando código token
+2022/05/30 11:08:34 --: Token enviado
+2022/05/30 11:08:39 --: ====================TelegramBot====================
+2022/05/30 11:08:39 --: Interagindo com usuario no Telegram
+2022/05/30 11:08:39 --: houve um erro ao receber a mensagem do telegram
+2022/05/30 11:08:40 --: =====Buscasndo conexão com BD=====
+2022/05/30 11:08:50 --: =====Buscasndo conexão com BD=====
+2022/05/30 11:09:00 --: =====Buscasndo conexão com BD=====
+2022/05/30 11:09:10 --: =====Buscasndo conexão com BD=====
+2022/05/30 11:09:20 --: =====Buscasndo conexão com BD=====
+2022/05/30 11:09:24 --: ====================TelegramBot====================
+2022/05/30 11:09:24 --: Interagindo com usuario no Telegram
+2022/05/30 11:09:24 --: Mensagem recebida do telegram
+2022/05/30 11:09:25 --: =====Buscasndo conexão com BD=====
+2022/05/30 11:09:30 --: =====Buscasndo conexão com BD=====
+2022/05/30 11:09:35 --: =====Buscasndo conexão com BD=====
+2022/05/30 11:09:35 --: ====================TelegramBot====================
+2022/05/30 11:09:35 --: Interagindo com usuario no Telegram
+2022/05/30 11:09:35 --: Mensagem recebida do telegram
+2022/05/30 11:09:36 --: =====Buscasndo conexão com BD=====
+2022/05/30 11:13:26 --: ===============Tela de Login===============
+2022/05/30 11:13:26 --: Iniciando tela swing email&senha
+2022/05/30 11:13:39 --: =============Envia Token=============
+2022/05/30 11:13:39 --: Iniciando tela do tokem...
+2022/05/30 11:13:40 --: Emitindo token
+2022/05/30 11:13:40 --: Gerando código token
+2022/05/30 11:13:40 --: Token enviado
+2022/05/30 11:13:42 --: Emitindo token
+2022/05/30 11:13:42 --: Gerando código token
+2022/05/30 11:13:42 --: Token enviado
+2022/05/30 11:13:47 --: ====================TelegramBot====================
+2022/05/30 11:13:47 --: Interagindo com usuario no Telegram
+2022/05/30 11:13:47 --: houve um erro ao receber a mensagem do telegram
+2022/05/30 11:13:48 --: =====Buscasndo conexão com BD=====
+2022/05/30 11:13:58 --: =====Buscasndo conexão com BD=====
+2022/05/30 11:14:05 --: ====================TelegramBot====================
+2022/05/30 11:14:05 --: Interagindo com usuario no Telegram
+2022/05/30 11:14:05 --: Mensagem recebida do telegram
+2022/05/30 11:14:06 --: =====Buscasndo conexão com BD=====
+2022/05/30 11:14:08 --: =====Buscasndo conexão com BD=====
+2022/05/30 11:14:14 --: ====================TelegramBot====================
+2022/05/30 11:14:14 --: Interagindo com usuario no Telegram
+2022/05/30 11:14:14 --: Mensagem recebida do telegram
+2022/05/30 11:14:15 --: =====Buscasndo conexão com BD=====
+2022/05/30 11:14:16 --: =====Buscasndo conexão com BD=====
+2022/05/30 11:14:18 --: =====Buscasndo conexão com BD=====
+2022/05/30 11:14:25 --: =====Buscasndo conexão com BD=====
+2022/05/30 11:14:26 --: =====Buscasndo conexão com BD=====
+2022/05/30 11:14:28 --: =====Buscasndo conexão com BD=====
+2022/05/30 11:18:17 --: =============Envia Token=============
+2022/05/30 11:18:17 --: Iniciando tela do tokem...
+2022/05/30 11:18:19 --: Emitindo token
+2022/05/30 11:18:19 --: Gerando código token
+2022/05/30 11:18:19 --: Token enviado
+2022/05/30 11:18:27 --: ====================TelegramBot====================
+2022/05/30 11:18:27 --: Interagindo com usuario no Telegram
+2022/05/30 11:18:27 --: =====Buscasndo conexão com BD=====
+2022/05/30 11:18:27 --: Mensagem recebida do telegram
+2022/05/30 11:18:37 --: ====================TelegramBot====================
+2022/05/30 11:18:37 --: Interagindo com usuario no Telegram
+2022/05/30 11:18:37 --: houve um erro ao receber a mensagem do telegram
+2022/05/30 11:18:38 --: =====Buscasndo conexão com BD=====
+2022/05/30 11:18:48 --: =====Buscasndo conexão com BD=====
+2022/05/30 11:18:58 --: =====Buscasndo conexão com BD=====
+2022/05/30 11:19:08 --: =====Buscasndo conexão com BD=====
+2022/05/30 11:19:14 --: ====================TelegramBot====================
+2022/05/30 11:19:14 --: Interagindo com usuario no Telegram
+2022/05/30 11:19:14 --: Mensagem recebida do telegram
+2022/05/30 11:19:18 --: =====Buscasndo conexão com BD=====
+2022/05/30 11:19:28 --: =====Buscasndo conexão com BD=====
+2022/05/30 11:19:57 --: =============Envia Token=============
+2022/05/30 11:19:57 --: Iniciando tela do tokem...
+2022/05/30 11:19:58 --: Emitindo token
+2022/05/30 11:19:58 --: Gerando código token
+2022/05/30 11:19:58 --: Token enviado
+2022/05/30 11:20:06 --: ====================TelegramBot====================
+2022/05/30 11:20:06 --: Interagindo com usuario no Telegram
+2022/05/30 11:20:06 --: houve um erro ao receber a mensagem do telegram
+2022/05/30 11:20:11 --: =====Buscasndo conexão com BD=====
+2022/05/30 11:20:21 --: =====Buscasndo conexão com BD=====
+2022/05/30 11:20:31 --: =====Buscasndo conexão com BD=====
+2022/05/30 11:20:41 --: =====Buscasndo conexão com BD=====
+2022/05/30 11:20:51 --: =====Buscasndo conexão com BD=====
+2022/05/30 11:22:38 --: =============Envia Token=============
+2022/05/30 11:22:38 --: Iniciando tela do tokem...
+2022/05/30 11:22:39 --: Emitindo token
+2022/05/30 11:22:39 --: Gerando código token
+2022/05/30 11:22:39 --: Token enviado
+2022/05/30 11:22:43 --: ====================TelegramBot====================
+2022/05/30 11:22:43 --: Interagindo com usuario no Telegram
+2022/05/30 11:22:43 --: houve um erro ao receber a mensagem do telegram
+2022/05/30 11:22:48 --: =====Buscasndo conexão com BD=====
+2022/05/30 11:22:58 --: =====Buscasndo conexão com BD=====
+2022/05/30 11:23:08 --: =====Buscasndo conexão com BD=====
+2022/05/30 11:23:18 --: =====Buscasndo conexão com BD=====
+2022/05/30 13:43:24 --: =============Envia Token=============
+2022/05/30 13:43:24 --: Iniciando tela do tokem...
+2022/05/30 13:43:25 --: Emitindo token
+2022/05/30 13:43:25 --: Gerando código token
+2022/05/30 13:43:25 --: Token enviado
+2022/05/30 13:43:36 --: ====================TelegramBot====================
+2022/05/30 13:43:36 --: Interagindo com usuario no Telegram
+2022/05/30 13:43:36 --: Mensagem recebida do telegram
+2022/05/30 13:47:10 --: =============Envia Token=============
+2022/05/30 13:47:10 --: Iniciando tela do tokem...
+2022/05/30 13:47:11 --: Emitindo token
+2022/05/30 13:47:11 --: Gerando código token
+2022/05/30 13:47:11 --: Token enviado
+2022/05/30 13:47:28 --: ====================TelegramBot====================
+2022/05/30 13:47:28 --: Interagindo com usuario no Telegram
+2022/05/30 13:47:28 --: Mensagem recebida do telegram
+2022/05/30 13:48:43 --: Emitindo token
+2022/05/30 13:48:43 --: Gerando código token
+2022/05/30 13:48:43 --: Token enviado
+2022/05/30 13:49:17 --: =============Envia Token=============
+2022/05/30 13:49:17 --: Iniciando tela do tokem...
+2022/05/30 13:49:20 --: Emitindo token
+2022/05/30 13:49:20 --: Gerando código token
+2022/05/30 13:49:20 --: Token enviado
+2022/05/30 13:58:09 --: =============Envia Token=============
+2022/05/30 13:58:09 --: Iniciando tela do tokem...
+2022/05/30 13:58:11 --: Emitindo token
+2022/05/30 13:58:11 --: Gerando código token
+2022/05/30 13:58:11 --: Token enviado
+2022/05/30 13:58:18 --: ====================TelegramBot====================
+2022/05/30 13:58:18 --: Interagindo com usuario no Telegram
+2022/05/30 13:58:18 --: =====Buscasndo conexão com BD=====
+2022/05/30 13:58:18 --: Mensagem recebida do telegram
+2022/05/30 13:59:02 --: =============Envia Token=============
+2022/05/30 13:59:02 --: Iniciando tela do tokem...
+2022/05/30 13:59:07 --: Emitindo token
+2022/05/30 13:59:07 --: Gerando código token
+2022/05/30 13:59:07 --: Token enviado
+2022/05/30 13:59:16 --: ====================TelegramBot====================
+2022/05/30 13:59:16 --: Interagindo com usuario no Telegram
+2022/05/30 13:59:16 --: =====Buscasndo conexão com BD=====
+2022/05/30 13:59:16 --: Mensagem recebida do telegram

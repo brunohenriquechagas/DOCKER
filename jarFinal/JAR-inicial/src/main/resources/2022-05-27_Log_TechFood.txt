@@ -1,0 +1,25 @@
+2022/05/27 16:27:55 --: fazendo a conecão com o Azure
+2022/05/27 16:28:05 --: fazendo a conecão com o Azure
+2022/05/27 16:45:18 --: Iniciando tela swing email&senha
+2022/05/27 16:45:27 --: Iniciando tela swing email&senha
+2022/05/27 16:45:34 --: fazendo a conecão com o Azure
+2022/05/27 16:45:45 --: fazendo a conecão com o Azure
+2022/05/27 16:49:50 --: Iniciando tela swing email&senha
+2022/05/27 16:49:57 --: Fazendo conexão com o Banco...
+2022/05/27 16:49:57 --: fazendo a conecão com o Azure
+2022/05/27 16:49:57 --: Usuario logado
+2022/05/27 16:50:08 --: fazendo a conecão com o Azure
+2022/05/27 17:11:00 --: Iniciando tela swing email&senha
+2022/05/27 17:11:07 --: Fazendo conexão com o Banco...
+2022/05/27 17:11:07 --: Usuario logado
+2022/05/27 19:16:54 --: Iniciando tela swing email&senha
+2022/05/27 19:17:01 --: Fazendo conexão com o Banco...
+2022/05/27 19:17:01 --: Usuario logado
+2022/05/27 19:35:46 --: Iniciando tela swing email&senha
+2022/05/27 19:35:52 --: Fazendo conexão com o Banco...
+2022/05/27 19:35:52 --: Usuario logado
+2022/05/27 20:52:35 --: Iniciando tela swing email&senha
+2022/05/27 20:52:43 --: Fazendo conexão com o Banco...
+2022/05/27 20:52:43 --: Usuario logado
+2022/05/27 20:52:43 --: Iniciando tela token...
+2022/05/27 20:52:55 --: aa
