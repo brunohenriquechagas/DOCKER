@@ -49,12 +49,9 @@ then
         read senha
 
 
-
         sudo docker run -d -p 3306:3306 --name $nome -e "MYSQL_DATABASE=$banco" -e "MYSQL_ROOT_PASSWORD=$senha" mysql:5.7
 
 fi
-
-
 
 echo "Deseja executar o MySql?\n s|n"
 
@@ -70,9 +67,11 @@ then
 
         read nome
 
+        echo "execute o comando mysql -u root -p e coloque a senha do seu usuario para entrar no banco de dados"
 
+        echo "Após usar o seu banco, copie e cole o Script SQL disponibilizado no nosso github para criar as tabelas"
 
-        echo "ao entrar de o comando mysql -u root -p e coloquei a senha do seu usuario para entrar no banco de dados"
+        echo "Após criar as tabelas, abra outro terminal e execute: cd .. && cd DOCKER && cd repBruno && java -jar Swing-1.0-SNAPSHOT-jar-with-dependencies.jar"
 
 sudo docker exec -it $nome bash
 
