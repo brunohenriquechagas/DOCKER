@@ -1,0 +1,38 @@
+2022/06/07 09:12:19 --: ===============Tela de Login===============
+2022/06/07 09:12:19 --: Iniciando tela swing email&senha
+2022/06/07 09:12:25 --: Fazendo conexão com o Banco...
+2022/06/07 09:12:25 --: Usuario logado
+2022/06/07 09:12:25 --: Iniciando tela token...
+2022/06/07 09:12:29 --: =============Envia Token=============
+2022/06/07 09:12:29 --: Iniciando tela do tokem...
+2022/06/07 09:12:25 --: Erro na autenticação do usuario
+2022/06/07 09:12:25 --: Erro na autenticação do usuario
+2022/06/07 09:12:30 --: Emitindo token
+2022/06/07 09:12:30 --: Gerando código token
+2022/06/07 09:12:30 --: Token enviado
+2022/06/07 09:12:33 --: Login realizado com sucesso
+2022/06/07 09:16:31 --: ===============Tela de Login===============
+2022/06/07 09:16:31 --: Iniciando tela swing email&senha
+2022/06/07 09:16:37 --: Fazendo conexão com o Banco...
+2022/06/07 09:16:37 --: Usuario logado
+2022/06/07 09:16:37 --: Iniciando tela token...
+2022/06/07 09:16:40 --: =============Envia Token=============
+2022/06/07 09:16:40 --: Iniciando tela do tokem...
+2022/06/07 09:16:37 --: Erro na autenticação do usuario
+2022/06/07 09:16:37 --: Erro na autenticação do usuario
+2022/06/07 09:16:42 --: Emitindo token
+2022/06/07 09:16:42 --: Gerando código token
+2022/06/07 09:16:42 --: Token enviado
+2022/06/07 09:17:44 --: ===============Tela de Login===============
+2022/06/07 09:17:44 --: Iniciando tela swing email&senha
+2022/06/07 09:17:49 --: Fazendo conexão com o Banco...
+2022/06/07 09:17:49 --: Usuario logado
+2022/06/07 09:17:49 --: Iniciando tela token...
+2022/06/07 09:17:53 --: =============Envia Token=============
+2022/06/07 09:17:53 --: Iniciando tela do tokem...
+2022/06/07 09:17:49 --: Erro na autenticação do usuario
+2022/06/07 09:17:49 --: Erro na autenticação do usuario
+2022/06/07 09:17:56 --: Emitindo token
+2022/06/07 09:17:56 --: Gerando código token
+2022/06/07 09:17:56 --: Token enviado
+2022/06/07 09:17:59 --: Login realizado com sucesso

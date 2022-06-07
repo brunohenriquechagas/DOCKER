@@ -1,0 +1,65 @@
+2022/05/29 13:23:28 --: ===============Tela de Login===============
+2022/05/29 13:23:28 --: Iniciando tela swing email&senha
+2022/05/29 13:23:36 --: Fazendo conexão com o Banco...
+2022/05/29 13:23:36 --: =====Buscasndo conexão com BD=====
+2022/05/29 13:23:36 --: Usuario logado
+2022/05/29 13:23:36 --: Iniciando tela token...
+2022/05/29 13:23:39 --: =============Envia Token=============
+2022/05/29 13:23:39 --: Iniciando tela do tokem...
+2022/05/29 13:23:41 --: Emitindo token
+2022/05/29 13:23:41 --: Gerando código token
+2022/05/29 13:23:41 --: Token enviado
+2022/05/29 13:23:45 --: Login realizado com sucesso
+2022/05/29 13:23:46 --: ===============Tela Principal===============
+2022/05/29 13:23:46 --: =====Buscasndo conexão com BD=====
+2022/05/29 15:28:39 --: ===============Tela de Login===============
+2022/05/29 15:28:39 --: Iniciando tela swing email&senha
+2022/05/29 15:28:49 --: Fazendo conexão com o Banco...
+2022/05/29 15:28:49 --: =====Buscasndo conexão com BD=====
+2022/05/29 15:28:49 --: Usuario logado
+2022/05/29 15:28:49 --: Iniciando tela token...
+2022/05/29 15:28:52 --: =============Envia Token=============
+2022/05/29 15:28:52 --: Iniciando tela do tokem...
+2022/05/29 15:28:56 --: Emitindo token
+2022/05/29 15:28:56 --: Gerando código token
+2022/05/29 15:28:56 --: Token enviado
+2022/05/29 15:29:00 --: Login realizado com sucesso
+2022/05/29 15:29:00 --: ===============Tela Principal===============
+2022/05/29 15:29:00 --: =====Buscasndo conexão com BD=====
+2022/05/29 15:29:00 --: Inserindo dados no BD...
+2022/05/29 17:46:54 --: ===============Tela de Login===============
+2022/05/29 17:46:54 --: Iniciando tela swing email&senha
+2022/05/29 17:47:02 --: Fazendo conexão com o Banco...
+2022/05/29 17:47:02 --: =====Buscasndo conexão com BD=====
+2022/05/29 17:47:02 --: Usuario logado
+2022/05/29 17:47:02 --: Iniciando tela token...
+2022/05/29 17:47:05 --: =============Envia Token=============
+2022/05/29 17:47:05 --: Iniciando tela do tokem...
+2022/05/29 17:47:07 --: Emitindo token
+2022/05/29 17:47:07 --: Gerando código token
+2022/05/29 17:47:07 --: Token enviado
+2022/05/29 17:47:16 --: Login realizado com sucesso
+2022/05/29 17:47:16 --: ===============Tela Principal===============
+2022/05/29 17:47:16 --: =====Buscasndo conexão com BD=====
+2022/05/29 17:47:16 --: Inserindo dados no BD...
+2022/05/29 17:48:08 --: ===============Tela de Login===============
+2022/05/29 17:48:08 --: Iniciando tela swing email&senha
+2022/05/29 17:48:15 --: Fazendo conexão com o Banco...
+2022/05/29 17:48:15 --: =====Buscasndo conexão com BD=====
+2022/05/29 17:48:15 --: Erro na autenticação do usuario
+2022/05/29 17:48:15 --: erro de autenticação
+2022/05/29 17:52:06 --: Fazendo conexão com o Banco...
+2022/05/29 17:52:06 --: =====Buscasndo conexão com BD=====
+2022/05/29 17:52:06 --: Usuario logado
+2022/05/29 17:52:06 --: Iniciando tela token...
+2022/05/29 17:52:08 --: =============Envia Token=============
+2022/05/29 17:52:08 --: Iniciando tela do tokem...
+2022/05/29 17:52:10 --: Emitindo token
+2022/05/29 17:52:10 --: Gerando código token
+2022/05/29 17:52:10 --: Token enviado
+2022/05/29 17:52:20 --: Login realizado com sucesso
+2022/05/29 17:52:20 --: ===============Tela Principal===============
+2022/05/29 17:52:20 --: =====Buscasndo conexão com BD=====
+2022/05/29 17:52:20 --: Inserindo dados no BD...
+2022/05/29 18:00:08 --: ===============Tela de Login===============
+2022/05/29 18:00:08 --: Iniciando tela swing email&senha

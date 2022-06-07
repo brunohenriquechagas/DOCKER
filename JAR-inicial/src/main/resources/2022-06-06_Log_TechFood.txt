@@ -1,0 +1,30 @@
+2022/06/06 17:51:48 --: ===============Tela de Login===============
+2022/06/06 17:51:48 --: Iniciando tela swing email&senha
+2022/06/06 17:52:02 --: Fazendo conex�o com o Banco...
+2022/06/06 17:52:02 --: =====Buscasndo conex�o com BD=====
+2022/06/06 17:52:02 --: Erro na autentica��o do usuario
+2022/06/06 17:52:02 --: Erro na autentica��o do usuario
+2022/06/06 17:52:02 --: Erro na autentica��o do usuario
+2022/06/06 17:52:02 --: Usuario logado
+2022/06/06 17:52:02 --: Iniciando tela token...
+2022/06/06 17:52:06 --: =============Envia Token=============
+2022/06/06 17:52:06 --: Iniciando tela do tokem...
+2022/06/06 17:52:07 --: Emitindo token
+2022/06/06 17:52:07 --: Gerando c�digo token
+2022/06/06 17:52:07 --: Token enviado
+2022/06/06 17:52:10 --: =====Buscasndo conex�o com BD=====
+2022/06/06 17:52:10 --: Login realizado com sucesso
+2022/06/06 23:10:49 --: ===============Tela de Login===============
+2022/06/06 23:10:49 --: Iniciando tela swing email&senha
+2022/06/06 23:11:45 --: Fazendo conex�o com o Banco...
+2022/06/06 23:11:45 --: =====Buscasndo conex�o com BD=====
+2022/06/06 23:11:45 --: Usuario logado
+2022/06/06 23:11:45 --: Iniciando tela token...
+2022/06/06 23:11:49 --: =============Envia Token=============
+2022/06/06 23:11:49 --: Iniciando tela do tokem...
+2022/06/06 23:11:45 --: Erro na autentica��o do usuario
+2022/06/06 23:11:53 --: Emitindo token
+2022/06/06 23:11:53 --: Gerando c�digo token
+2022/06/06 23:11:53 --: Token enviado
+2022/06/06 23:11:59 --: =====Buscasndo conex�o com BD=====
+2022/06/06 23:11:59 --: Login realizado com sucesso
