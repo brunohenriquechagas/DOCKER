@@ -1,4 +1,0 @@
-2022/06/02 16:25:15 --: =====Buscasndo conexão com BD=====
-2022/06/02 16:25:34 --: =====Buscasndo conexão com BD=====
-2022/06/02 16:35:44 --: =====Buscasndo conexão com BD=====
-2022/06/02 16:35:56 --: =====Buscasndo conexão com BD=====
